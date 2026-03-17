@@ -85,10 +85,6 @@ Android (Kotlin + Jetpack Compose) and iOS (Swift + SwiftUI). Mapbox Navigation 
 
 <br/>
 
-## Now
-
-Building **[Chevron](https://github.com/cesarfavero/chevron-kotlin)** — a native Android app for motorcycle clubs. Real-time group rides with turn-by-turn navigation, live GPS tracking, club chat, and SOS emergency alerts.
-
 <br/>
 
 <div align="center">
