@@ -56,14 +56,14 @@
 <tr>
 <td width="50%">
 
-### iGaming & Fintech
-Multi-tenant whitelabel betting platforms. CQRS + Event Sourcing on .NET 8. Full Brazilian compliance — Lei 14.790, SIGAP, KYC/AML, LGPD. Payment orchestration with PIX.
+### Product Engineering
+End-to-end product delivery for web and backend systems. Architecture, implementation, integration, observability, and production hardening focused on revenue, reliability, and speed.
 
 </td>
 <td width="50%">
 
-### Real-Time Game Engines
-Bingo provider built from scratch — Node.js, WebSocket, Socket.io. Embeddable iframe for third-party operators. Comparable to PG Soft / Pragmatic Play.
+### Platform & Infrastructure
+Cloud-native services, CI/CD pipelines, containerized workloads, and scalable data layers. Strong focus on performance tuning, resiliency, and operational excellence.
 
 </td>
 </tr>
@@ -71,13 +71,13 @@ Bingo provider built from scratch — Node.js, WebSocket, Socket.io. Embeddable 
 <td width="50%">
 
 ### AI & Automation
-Local LLM deployment and inference. RAG pipelines with text-to-SQL. Video processing (Whisper + LLaMA + FFmpeg). Automated content generation. MCP integrations.
+Applied AI workflows for operations and product features: RAG pipelines, local and hosted inference, workflow automation, document processing, and agent/tool integrations.
 
 </td>
 <td width="50%">
 
-### Native Mobile
-Android (Kotlin + Jetpack Compose) and iOS (Swift + SwiftUI). Mapbox Navigation SDK, real-time GPS tracking, foreground services, Socket.io live sync.
+### Mobile & Real-Time Systems
+Native Android (Kotlin/Compose) and iOS (Swift/SwiftUI), plus real-time communication and tracking features. Experience with geolocation, streaming events, and live synchronization.
 
 </td>
 </tr>
