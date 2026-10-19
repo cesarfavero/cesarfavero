@@ -1,94 +1,46 @@
-<div align="center">
+# Cesar Favero
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Cesar%20Favero&fontSize=50&fontColor=c9d1d9&animation=fadeIn&fontAlignY=38&desc=CTO%20%7C%20Software%20Engineer&descAlignY=55&descSize=18&descColor=8b949e" width="100%" />
+**Senior AI Engineer | Backend & Agentic Systems Architect**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cesar-favero)
-[![GitHub](https://img.shields.io/badge/cesarfavero-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cesarfavero)
-[![Location](https://img.shields.io/badge/São_Paulo,_Brazil-1a1a2e?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Barueri,SP)
+I design and build AI-powered products, from multi-agent orchestration to backend infrastructure and efficient model inference.
 
-<br/>
+8+ years in software engineering and distributed systems, with 3 years focused on AI applications. My work combines hands-on engineering, technical leadership, product discovery, architecture decisions, and production reliability.
 
-**Building products that make money.** <br/>
-8+ years shipping platforms from zero to production — real-time systems, AI infrastructure, native mobile, and regulated fintech.
+São Paulo, Brazil · [LinkedIn](https://www.linkedin.com/in/cesar-favero/) · [RPT Research](https://rpt.dog) · [Email](mailto:cesar.favsouza@gmail.com)
 
-</div>
+## Engineering focus
 
-<br/>
+- **Agentic AI:** LangGraph, stateful workflows, multi-agent systems, MCP, tool orchestration, human-in-the-loop review, and tenant isolation.
+- **LLM engineering:** RAG, embeddings, model routing, prompt and context optimization, evaluation, guardrails, and inference cost control.
+- **Backend and infrastructure:** Python, FastAPI, TypeScript, Node.js, Java/Spring Boot, .NET, PostgreSQL, Redis, AWS, Docker, Kubernetes, Terraform, and CI/CD.
+- **Reliability:** Asynchronous services, secure API contracts, distributed systems, observability, automated testing, and scalable architecture.
 
-## Stack
+## Selected engineering work
 
-<div align="center">
+**[RPT: Efficient LLM Inference](https://github.com/cesarfavero/RPT)** · [rpt.dog](https://rpt.dog)  
+Independent research on pruning, ternary quantization, model recovery, and packed inference. In a **local 100-question Gemma 2B evaluation**, the recovered packed path scored **100/100**, compared with **90/100** for the original reference. A separate BitNet experiment reported **34.8% lower perplexity** with **42.6% sparsity**. Results are specific to their documented test settings.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)
+**[FastRegex MCP](https://github.com/cesarfavero/fastregex-mcp)**  
+Rust-based MCP server for indexed code search, using trigram/sparse indexing and PCRE2 verification to reduce repetitive full-repository scans by coding agents.
 
-</div>
+**[CodexRouter](https://github.com/cesarfavero/codexrouter)**  
+Desktop model gateway and routing layer, with account-aware model selection, health checks, and fallback behavior. Early-stage application.
 
-<br/>
+**[AI Document Verification Pipeline](https://github.com/cesarfavero/lh-ai-challenge)**  
+Seven specialized agents for document verification, backed by deterministic checks, structured outputs, evaluation fixtures, and adversarial tests. Developed as a technical assessment project.
 
-## What I Ship
+## Product engineering
 
-<table>
-<tr>
-<td width="50%">
+At **Nakamura Company**, I work on requirements discovery, technical scoping, system design, stack selection, and hands-on backend/AI engineering. Selected product work includes:
 
-### Product Engineering
-End-to-end product delivery for web and backend systems. Architecture, implementation, integration, observability, and production hardening focused on revenue, reliability, and speed.
+- **Gestão Simples / Averba:** Python/FastAPI copilots and LangGraph workflows with durable PostgreSQL checkpoints, human review, and tenant-scoped execution.
+- **Drummond:** AI services and model-routing integration for a financial platform.
+- **High Square CRM:** Context-aware AI copilot, secure MCP integrations, and business workflow automation.
 
-</td>
-<td width="50%">
+*Some commercial codebases are private.*
 
-### Platform & Infrastructure
-Cloud-native services, CI/CD pipelines, containerized workloads, and scalable data layers. Strong focus on performance tuning, resiliency, and operational excellence.
+## Credentials
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+**IBM Generative AI Engineering Professional Certificate** · **Oracle Agentic AI Certified Foundations Associate** · **Microsoft AI Agent Fundamentals with Azure AI Foundry** · **Stanford / DeepLearning.AI Machine Learning**
 
-### AI & Automation
-Applied AI workflows for operations and product features: RAG pipelines, local and hosted inference, workflow automation, document processing, and agent/tool integrations.
-
-</td>
-<td width="50%">
-
-### Mobile & Real-Time Systems
-Native Android (Kotlin/Compose) and iOS (Swift/SwiftUI), plus real-time communication and tracking features. Experience with geolocation, streaming events, and live synchronization.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer" width="100%" />
-
-</div>
+[Full certifications and experience on LinkedIn](https://www.linkedin.com/in/cesar-favero/details/certifications/)
